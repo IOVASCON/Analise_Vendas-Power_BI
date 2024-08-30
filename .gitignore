@@ -1,0 +1,8 @@
+# Ignore temporary files created by Excel
+~$*.xlsx
+
+# Ignore all log files
+*.log
+
+# Ignore node modules folder
+node_modules/
